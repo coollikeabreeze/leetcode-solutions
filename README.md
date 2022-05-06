@@ -46,8 +46,8 @@
   <th>Date</th>
 
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>1469. Find All The Lonely Nodes</td>
+    <td>Easy</td>
+    <td>5-6-2022</td>
   </tr>
 </table>
