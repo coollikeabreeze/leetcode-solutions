@@ -25,7 +25,7 @@
 
   <tr>
     <td>5-11-2022</td>
-    <td>[142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/")</td>
+    <td>142. Linked List Cycle II: <br> https://leetcode.com/problems/linked-list-cycle-ii/")</td>
     <td></td>
     <td>Two-Pointers / Recursion</td>
     <td>Medium</td>
