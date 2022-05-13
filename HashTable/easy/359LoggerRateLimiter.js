@@ -1,8 +1,8 @@
-//Friday, May 6, 2022
+
 
 /*
-
-**359. Logger Rate Limiter**
+359. Logger Rate Limiter
+Friday, May 6, 2022
 
 Design a logger system that receives a stream of messages along with their timestamps. Each unique message should only be printed at most every 10 seconds (i.e. a message printed at timestamp t will prevent other identical messages from being printed until timestamp t + 10).
 
@@ -46,6 +46,7 @@ class Logger {
       this.logger = {}
   }
 
+  /*
   shouldPrintMessage (timestamp, message) {
       console.log(this.logger[message])
       if (this.logger[message]) {
@@ -60,4 +61,17 @@ class Logger {
            return true
           }
   }
+  */
+
+  //cleaner code
+  shouldPrintMessage (timestamp, message) {
+    if (this.logger[message]) {
+        if (timestamp < this.logger[message]) {
+            return false
+        }
+    }
+
+    this.logger[message] = timestamp + 10
+    return true
+    }
 }
