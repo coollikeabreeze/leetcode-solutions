@@ -2,6 +2,9 @@
 
 | Date             | LeetCode Problem | GitHub Gist | Data Structure / Pattern | Difficulty |
 |------------------|------------------| -------------------------|------------|------------|
+|5-18-2022          | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | | Hashtable / String | Easy |
+|5-18-2022          | [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | | Graph / BFS | Easy |
+|5-17-2022          | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | | Graph / Breadth-First Search | Medium |
 |5-15-2022          | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | | Graph / Depth-First Search | Easy |
 |5-15-2022          | [1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/submissions/)| | Graph / Depth-First Search | Medium |
 | 5-14-2022         | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/submissions/) | | Array / Matrix | Medium |
