@@ -2,6 +2,11 @@
 
 | Date             | LeetCode Problem | GitHub Gist | Data Structure / Pattern | Difficulty |
 |------------------|------------------| -------------------------|------------|------------|
+|5-15-2022          | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | | Graph / Depth-First Search | Easy |
+|5-15-2022          | [1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/submissions/)| | Graph / Depth-First Search | Medium |
+| 5-14-2022         | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/submissions/) | | Array / Matrix | Medium |
+| 5-14-2022 | [1791. Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | | Graph | Easy |
+| 5-14-2022 | [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | | Linked List / Recursion | Easy |
 | 5-13-2022         | [1006. Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/) |[GitHub Gist](https://gist.github.com/coollikeabreeze/462409c4a6c34e23ca49a3705cea6dd4)  | Math / Stack | Medium |
 | 5-11-2022 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| | Two-Pointers / Recursion | Easy |
 | 5-11-2022 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | | Two-Pointers / Recursion | Medium |
