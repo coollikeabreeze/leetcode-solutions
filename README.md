@@ -2,8 +2,10 @@
 
 | Date             | LeetCode Problem | GitHub Gist | Data Structure / Pattern | Difficulty |
 |------------------|------------------| -------------------------|------------|------------|
+|5-18-2022          | [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/6afa6e46594b8c0baf6dd1134d004fa0) | Binary Tree / DFS | Easy |
+| 5-18-2022         | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/47b85a5eb78226a4604821b39539aeeb) | String | Easy |
 |5-18-2022          | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/07e4558f20729b270433ae932756c23e) | Hashtable / String | Easy |
-|5-18-2022          | [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | | Graph / BFS | Easy |
+|5-18-2022          | [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) |[GitHub Gist](https://gist.github.com/coollikeabreeze/f7feb0a0cc0d5e9bc6fecdb1f1ffcf11) | Graph / BFS | Easy |
 |5-17-2022          | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | | Graph / Breadth-First Search | Medium |
 |5-15-2022          | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | | Graph / Depth-First Search | Easy |
 |5-15-2022          | [1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/submissions/)| | Graph / Depth-First Search | Medium |
