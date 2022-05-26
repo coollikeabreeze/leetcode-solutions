@@ -2,6 +2,7 @@
 
 | Date             | LeetCode Problem | GitHub Gist | Data Structure / Pattern | Difficulty | Notes
 |------------------|------------------| -------------------------|------------|------------|------|
+|5-26-2022  | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/cb85b25f9be7a8aa1127b892f928fdd7) | Array / Dynamic Programming | Easy | Dynamic Programming: [Kadane's Algorithm](https://en.wikipedia.org/wiki/Maximum_subarray_problem#Kadane's_algorithm) |
 |5-25-2022      | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/db8bfe2bb06fbe7ce1079fce59d72de7) | String / Two-Pointers | Easy |  Two-Pointers: start evaluating palindrome. If mismatch, use helper to compare the remaining substrings using current pointer values
 |5-25-2022      | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/2c61833b5eac65f62315b64dfd7cf9a1) | String / Two-Pointers | Easy | Two-Pointers options: 1. Start from ends; 2. Start from middle; 3. Create reverse copy of string
 |5-25-2022   | [27. Remove Element](https://leetcode.com/problems/remove-element/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/b233a5527f6282aeb661a37931658a12) | Array / Two-Pointers | Easy | Fast/Slow pointers: Slow pointer only moves when fast pointer encounters a number that is not the val (in this case, the val at p1 is replaced by val at p2)
