@@ -2,6 +2,7 @@
 
 | Date             | LeetCode Problem | GitHub Gist | Data Structure / Pattern | Difficulty | Notes
 |------------------|------------------| -------------------------|------------|------------|------|
+|5-26-2022        | [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/f006717b3dff639275565600897ec8dd) | Linked List | Medium | REVIEW THIS |
 |5-26-2022        | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/8b2e038f5c7169fdce21b6cf203b9f39) | Linked List / Recursion | Easy | Remember to store the appropriate pointers to keep references on reassignment
 |5-26-2022  | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/cb85b25f9be7a8aa1127b892f928fdd7) | Array / Dynamic Programming | Easy | Dynamic Programming: [Kadane's Algorithm](https://en.wikipedia.org/wiki/Maximum_subarray_problem#Kadane's_algorithm) |
 |5-25-2022      | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/db8bfe2bb06fbe7ce1079fce59d72de7) | String / Two-Pointers | Easy |  Two-Pointers: start evaluating palindrome. If mismatch, use helper to compare the remaining substrings using current pointer values
