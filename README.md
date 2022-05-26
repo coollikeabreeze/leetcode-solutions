@@ -2,6 +2,7 @@
 
 | Date             | LeetCode Problem | GitHub Gist | Data Structure / Pattern | Difficulty | Notes
 |------------------|------------------| -------------------------|------------|------------|------|
+|5-26-2022        | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/8b2e038f5c7169fdce21b6cf203b9f39) | Linked List / Recursion | Easy | Remember to store the appropriate pointers to keep references on reassignment
 |5-26-2022  | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/cb85b25f9be7a8aa1127b892f928fdd7) | Array / Dynamic Programming | Easy | Dynamic Programming: [Kadane's Algorithm](https://en.wikipedia.org/wiki/Maximum_subarray_problem#Kadane's_algorithm) |
 |5-25-2022      | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/db8bfe2bb06fbe7ce1079fce59d72de7) | String / Two-Pointers | Easy |  Two-Pointers: start evaluating palindrome. If mismatch, use helper to compare the remaining substrings using current pointer values
 |5-25-2022      | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/2c61833b5eac65f62315b64dfd7cf9a1) | String / Two-Pointers | Easy | Two-Pointers options: 1. Start from ends; 2. Start from middle; 3. Create reverse copy of string
@@ -31,5 +32,5 @@
 | 5-6-2022 | [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) | | Hash Table | Easy |
 |5-6-2022 | [1469. Find All The Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/) | | Depth First Search | Easy |
 | 5-6-2022 | [136. Single Number](https://leetcode.com/problems/single-number/) |[GitHub Gist](https://gist.github.com/coollikeabreeze/1b6963f27404bf4316b224a62a45edf3)| Array | Easy |
-| 5-6-2022 | [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | | String / Greedy | Medium |
-| 5-6-2022 | [1874. Minimize Product Sum of Two Arrays](https://leetcode.com/problems/minimize-product-sum-of-two-arrays/) | | Array / Greedy | Easy |
+| 5-6-2022 | [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/439f38844c37d320076f8dc80f3fc30d)| String / Greedy | Medium | Find/return largest integer digit; Tip: JS converts number "string" into integers for comparison (e.g. "3" < "4") |
+| 5-6-2022 | [1874. Minimize Product Sum of Two Arrays](https://leetcode.com/problems/minimize-product-sum-of-two-arrays/) |[GitHub Gist](https://gist.github.com/coollikeabreeze/abc329bd4b60dc00e83958a5803f4318) | Array / Greedy | Easy | Recognize: rearranging ONLY ONE array is the same as sorting both and doesn't impact the outcome. Don't get bogged down in this detail.
