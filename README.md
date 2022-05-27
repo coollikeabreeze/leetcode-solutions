@@ -2,7 +2,7 @@
 
 | Date             | LeetCode Problem | GitHub Gist | Data Structure / Pattern | Difficulty | Notes
 |------------------|------------------| -------------------------|------------|------------|------|
-| 5-26-2022       | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [GitHub Gist]() | Binary Search | Easy | Tip: You can iterate over a series of numbers without an array |
+| 5-26-2022       | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/a009478e3de5dab5e261c8dee8efbaa8) | Binary Search | Easy | Tip: You can iterate over a series of numbers without an array |
 |5-26-2022        | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/47ef273039a8afb67e1ece7cccc177c1) | Array / Binary Search | Easy | REMEMBER: Binary Search Pattern |
 |5-26-2022        | [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/f006717b3dff639275565600897ec8dd) | Linked List | Medium | REVIEW THIS; there are 4 necessary pointers |
 |5-26-2022        | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/8b2e038f5c7169fdce21b6cf203b9f39) | Linked List / Recursion | Easy | Remember to store the appropriate pointers to keep references on reassignment
