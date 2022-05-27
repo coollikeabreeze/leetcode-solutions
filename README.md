@@ -2,6 +2,8 @@
 
 | Date             | LeetCode Problem | GitHub Gist | Data Structure / Pattern | Difficulty | Notes
 |------------------|------------------| -------------------------|------------|------------|------|
+|5-27-2022        | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/79e24071afd5b502074188ba0fd22408) | Array / Sliding Windows | Medium | Review: Sliding Windows - Peak and Valley Approach |
+|5-27-2022        | [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/54c63844f3a8b32142e0365dc734e293) | Array / Sliding Windows | Medium | Classic sliding windows BUT remember the pattern for updating the hashmap for "max 'k' distinct characters |
 | 5-26-2022       | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/a009478e3de5dab5e261c8dee8efbaa8) | Binary Search | Easy | Tip: You can iterate over a series of numbers without an array |
 |5-26-2022        | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/47ef273039a8afb67e1ece7cccc177c1) | Array / Binary Search | Easy | REMEMBER: Binary Search Pattern |
 |5-26-2022        | [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/f006717b3dff639275565600897ec8dd) | Linked List | Medium | REVIEW THIS; there are 4 necessary pointers |
