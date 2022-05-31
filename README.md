@@ -2,6 +2,7 @@
 
 | Date             | LeetCode Problem | GitHub Gist | Data Structure / Pattern | Difficulty | Notes
 |------------------|------------------| -------------------------|------------|------------|------|
+|5-31-2022      | [430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/0634de6bd62be98d5297e8a3d6ba0eed) | Doubly-Linked List | Medium | REMEMBER: consider the order the nodes will be evaluated AFTER merging children
 |5-31-2022      | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/solution/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/759a1c41889139b2e943755210ce341b) | String | Easy | REMEMBER: Consider all edge cases (e.g. ending spaces)
 |5-27-2022        | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/79e24071afd5b502074188ba0fd22408) | Array / Sliding Windows | Medium | Review: Sliding Windows - Peak and Valley Approach |
 |5-27-2022        | [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/54c63844f3a8b32142e0365dc734e293) | Array / Sliding Windows | Medium | Classic sliding windows BUT remember the pattern for updating the hashmap for "max 'k' distinct characters |
