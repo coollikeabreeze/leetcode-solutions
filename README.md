@@ -2,6 +2,7 @@
 
 | Date             | LeetCode Problem | GitHub Gist | Data Structure / Pattern | Difficulty | Notes
 |------------------|------------------| -------------------------|------------|------------|------|
+|6-2-2022         | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)  | [GitHub Gist](https://gist.github.com/coollikeabreeze/3fab965b0aa8163a45bf850b136428f3) | Linked List / Two-Pointers | Easy | Floyd's Tortoise and Hare |
 |6-2-2022        | [66.Plus One](https://leetcode.com/problems/plus-one/) |[GitHub Gist](https://gist.github.com/coollikeabreeze/1ee17229cc8c592bd34a6d383aa85a66) | Array | Easy | Remember to keep edge cases in mind, e.g. [9,9,9] or [8,9,8]
 |6-2-2022        | [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) |[GitHub Gist](https://gist.github.com/coollikeabreeze/bd3ae86c1dbb06ceb6809f0c728c3756) | String / Two-Pointers | Easy | Carefully consider how to break out of a loop and/or properly return a result ONLY IF the loop completes successfully
 |6-1-2022        | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/submissions/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/b0f03fb41cf939a172317e2988a23429) | Dynamic Programming / Array | Easy | Update existing array (similar to maximum subarray); change the logic as needed |
