@@ -2,6 +2,8 @@
 
 | Date             | LeetCode Problem | GitHub Gist | Data Structure / Pattern | Difficulty | Notes
 |------------------|------------------| -------------------------|------------|------------|------|
+|6-4-2022         | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [GitHub Gist]() | Binary Tree / DFS / BFS |
+|6-4-2022         |[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/b91a25522f65730b8f5294d694e09882) | Array | Medium | BIG-O TIP: Iterating through an array twice (non-nested) DOES NOT MATTER; still O(n) time
 |6-4-2022         | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/da478371001288bc1dcb82ee36c81bf4) | Binary Search Tree | Medium | REMEMBER: choosing DFS method is important - this can rely on IN-ORDER TRAVERSAL
 |6-3-2022         | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/3e5f3506d6be4f66231842805bd92a36) | Linked List | Easy | Since it's sorted, no need to store duplicate values (dupes will be directly next to each other) |
 |6-2-2022         | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)  | [GitHub Gist](https://gist.github.com/coollikeabreeze/3fab965b0aa8163a45bf850b136428f3) | Linked List / Two-Pointers | Easy | Floyd's Tortoise and Hare |
