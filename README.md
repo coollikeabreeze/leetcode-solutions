@@ -2,7 +2,7 @@
 
 | Date             | LeetCode Problem | GitHub Gist | Data Structure / Pattern | Difficulty | Notes
 |------------------|------------------| -------------------------|------------|------------|------|
-| 6-7-2022        | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [GitHub Gist]() |
+| 6-7-2022        | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/529ad40a7039d8ec6fd2de56f066fea8) | Binary Search Tree / In-Order Traversal | Medium | Review the Iterative Solution |
 |6-7-2022         | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)  | [GitHub Gist](https://gist.github.com/coollikeabreeze/2c1cd012fc653652b855cf7244edeeaf) | Binary Tree / DFS | Easy | Combine traversal and "same tree" pattern |
 |6-7-2022         | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/0a56e1f954fd6508ab095d86752d1215) | Binary Tree / DFS | Easy | REMEMBER: The LCA in a BST is the node at which the value of one target node is less than and the other greater than the ancestor value.
 |6-4-2022         | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/c328272a8886ea3c6c4103386d06513b) | Binary Tree / DFS / BFS |
