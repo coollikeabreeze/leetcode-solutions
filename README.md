@@ -2,6 +2,7 @@
 
 | Date             | LeetCode Problem | GitHub Gist | Data Structure / Pattern | Difficulty | Notes
 |------------------|------------------| -------------------------|------------|------------|------|
+|6-16-2022        |[297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)     | [GitHub Gist](https://gist.github.com/coollikeabreeze/866cfdf148c542ef142e6a019043ec0b)    | Binary Tree / DFS | Hard | Remember the procedure for CREATING a binary tree based on a type of traversal
 | 6-15-2022       |[110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)  | [GitHub Gist](https://gist.github.com/coollikeabreeze/502854bf70ca819f8875848aa2b1b128) | Binary Tree | Easy | REVIEW - comparing depths of subtrees |
 |6-14-2022        |[1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/2f3781af636bee15a2b57eb717ada4d0) | Array / Binary Search | Medium | REMEMBER: Binary Search - find the BOUNDARY pattern |
 | 6-14-2022       | [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/9b15aa73c6d6c5de0a4da92d30a3fdae) | Array / Binary Search | Easy | Binary Search |
