@@ -2,6 +2,7 @@
 
 | Date             | LeetCode Problem | GitHub Gist | Data Structure / Pattern | Difficulty | Notes
 |------------------|------------------| -------------------------|------------|------------|------|
+|6-22-2022        |[34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/51b76ca59cb50389bc7c2436fe0ecc1c) | Binary Search | Medium | Use a helper function and "TRUE/FALSE" parameter (isFirst) to clean up the code for the 2-pass binary search |
 | 6-22-2022       | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/428d418700085b99ce5f881198555977) | Sorting / Quicksort / Hoare's Quickselect | Medium | REVIEW THIS |
 | 6-20-2022 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/2a0323c96aba423ac9266efc9b2571d8) | Tree / DFS | Medium | REVIEW THIS |
 |6-16-2022        |[297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)     | [GitHub Gist](https://gist.github.com/coollikeabreeze/866cfdf148c542ef142e6a019043ec0b)    | Binary Tree / DFS | Hard | Remember the procedure for CREATING a binary tree based on a type of traversal
