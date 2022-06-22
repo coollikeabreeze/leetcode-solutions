@@ -2,6 +2,8 @@
 
 | Date             | LeetCode Problem | GitHub Gist | Data Structure / Pattern | Difficulty | Notes
 |------------------|------------------| -------------------------|------------|------------|------|
+| 6-22-2022       | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/428d418700085b99ce5f881198555977) | Sorting / Quicksort / Hoare's Quickselect | Medium | REVIEW THIS |
+| 6-20-2022 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/2a0323c96aba423ac9266efc9b2571d8) | Tree / DFS | Medium | REVIEW THIS |
 |6-16-2022        |[297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)     | [GitHub Gist](https://gist.github.com/coollikeabreeze/866cfdf148c542ef142e6a019043ec0b)    | Binary Tree / DFS | Hard | Remember the procedure for CREATING a binary tree based on a type of traversal
 | 6-15-2022       |[110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)  | [GitHub Gist](https://gist.github.com/coollikeabreeze/502854bf70ca819f8875848aa2b1b128) | Binary Tree | Easy | REVIEW - comparing depths of subtrees |
 |6-14-2022        |[1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/2f3781af636bee15a2b57eb717ada4d0) | Array / Binary Search | Medium | REMEMBER: Binary Search - find the BOUNDARY pattern |
