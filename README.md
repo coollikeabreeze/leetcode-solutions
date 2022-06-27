@@ -2,8 +2,8 @@
 
 | Date             | LeetCode Problem | GitHub Gist | Data Structure / Pattern | Difficulty | Notes
 |------------------|------------------| -------------------------|------------|------------|------|
-|6-24-2022        | [628. Maximum Product of Three Numbers
-](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/b99c4bf68e4b5ec3d259255c67564568) | Array / Math | Easy | Remember: Number.MIN_VALUE represents the smallest *positive* number
+|6-27-2022        | [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/9b2e32e495a5779cdf68c34cd7960b45) | Binary Tree | Easy | Remember: Base case is when there are no left/right or children nodes; For Tenary / N-ary tree, deal with children rather than left/right |
+|6-24-2022        | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/b99c4bf68e4b5ec3d259255c67564568) | Array / Math | Easy | Remember: Number.MIN_VALUE represents the smallest *positive* number
 |6-23-2022        | [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/c3613a4cd2686f7e8d256e1d90910984) | Binary Search Tree | Medium | Remember: recursively add the new node the left subtree if val is less than the current, otherwise add to the right |
 |
 |6-23-2022        |[200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/c8335f7c82a72b8cdd790e88b1e50e52) | Graph / BFS | Medium | 1. Loop through the grid (nested loop); 2. Use queue/BFS to evaluate the valid adjacent vertices of any "island" & add to count when all valid island vertices have been seen; 3. Loop with continue the process with any unconnected islands.
