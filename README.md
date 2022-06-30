@@ -2,6 +2,8 @@
 
 | Date             | LeetCode Problem | GitHub Gist | Data Structure / Pattern | Difficulty | Notes
 |------------------|------------------| -------------------------|------------|------------|------|
+|6-29-2022        | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  | [GitHub Gist](https://gist.github.com/coollikeabreeze/518f57ab5e83c12bd751c1088e4a00cd) | Backtracking / String | Medium | PRACTICE THIS PATTERN |
+|6-29-2022        | [46. Permutations](https://leetcode.com/problems/permutations/)    | [GitHub Gist](https://gist.github.com/coollikeabreeze/913ab9c213ec3f3d92b4d81a521b0e9c) | Backtracking / Array | Medium | PRACTICE THIS PATTERN |
 |6-27-2022        | [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/9b2e32e495a5779cdf68c34cd7960b45) | Binary Tree | Easy | Remember: Base case is when there are no left/right or children nodes; For Tenary / N-ary tree, deal with children rather than left/right |
 |6-24-2022        | [628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/b99c4bf68e4b5ec3d259255c67564568) | Array / Math | Easy | Remember: Number.MIN_VALUE represents the smallest *positive* number
 |6-23-2022        | [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/c3613a4cd2686f7e8d256e1d90910984) | Binary Search Tree | Medium | Remember: recursively add the new node the left subtree if val is less than the current, otherwise add to the right |
