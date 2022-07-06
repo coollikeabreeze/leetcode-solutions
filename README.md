@@ -2,6 +2,7 @@
 
 | Date             | LeetCode Problem | GitHub Gist | Data Structure / Pattern | Difficulty | Notes
 |------------------|------------------| -------------------------|------------|------------|------|
+|6-30-2022        | [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/957445e2499bae84db947a109de212a3) | Graph / BFS / DFS | Easy | Simple DFS; trick is to substract one from the possible 4 perimeter units each time you find an node adjacent (TRBL) to the current node |ss
 |6-29-2022        | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  | [GitHub Gist](https://gist.github.com/coollikeabreeze/518f57ab5e83c12bd751c1088e4a00cd) | Backtracking / String | Medium | PRACTICE THIS PATTERN |
 |6-29-2022        | [46. Permutations](https://leetcode.com/problems/permutations/)    | [GitHub Gist](https://gist.github.com/coollikeabreeze/913ab9c213ec3f3d92b4d81a521b0e9c) | Backtracking / Array | Medium | PRACTICE THIS PATTERN |
 |6-27-2022        | [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/9b2e32e495a5779cdf68c34cd7960b45) | Binary Tree | Easy | Remember: Base case is when there are no left/right or children nodes; For Tenary / N-ary tree, deal with children rather than left/right |
