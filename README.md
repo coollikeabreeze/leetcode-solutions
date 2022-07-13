@@ -2,6 +2,7 @@
 
 | Date             | LeetCode Problem | GitHub Gist | Data Structure / Pattern | Difficulty | Notes
 |------------------|------------------| -------------------------|------------|------------|------|
+|7-13-2022        | []()    | []() | 2D Array / Array / Grid / Binary Search | Medium | TIP: Given 2D array matrix, you can find the row & col from the INDEX (as if it were a single array) of a particular element: row = index / numElements & col = index % numElementss
 |7-12-2022        |[366. Find Leaves of Binary Trees](https://leetcode.com/problems/find-leaves-of-binary-tree/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/06e34681c6451d072d9f49b1010cc896) | Binary Tree / DFS | Medium | REVIEW THIS
 |6-30-2022        | [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/957445e2499bae84db947a109de212a3) | Graph / BFS / DFS | Easy | Simple DFS; trick is to substract one from the possible 4 perimeter units each time you find an node adjacent (TRBL) to the current node |ss
 |6-29-2022        | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  | [GitHub Gist](https://gist.github.com/coollikeabreeze/518f57ab5e83c12bd751c1088e4a00cd) | Backtracking / String | Medium | PRACTICE THIS PATTERN |
