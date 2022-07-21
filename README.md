@@ -2,6 +2,7 @@
 
 | Date             | LeetCode Problem | GitHub Gist | Data Structure / Pattern | Difficulty | Notes
 |------------------|------------------| -------------------------|------------|------------|------|
+|7-21-2022         |[]()  | [GitHub Gist](https://gist.github.com/coollikeabreeze/536f672371288c56671ae9a11a49bf35) | Graph / BFS | Medium | Similar to Gates and Walls but requires visited array |
 |7-21-2022        | [286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/17ce9dd7344c7c765edf2b75ef2c4e61) | Graph / BFS | Medium | REVIEW: Push the GATES into a queue, then find the empty spaces and increment the counts of those |
 |7-20-2022        | [1197. Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/7a009b53ab369fc5619b5af6db49fc7c) | Graph / BFS | Medium | Very similar to Binary Tree Right Side View Approach; i.e. use an inner loop to verify when you are evaluating a particular level based on the current queue.length |
 |7-20-2022        | [111. Minimum Depth of Binary Trees](https://leetcode.com/problems/minimum-depth-of-binary-tree/)      | [GitHub Gist](https://gist.github.com/coollikeabreeze/385b1610c0d1eb1b0fec16bb5eecf517) | Binary Tree / BFS | Easy | Like Max Depth, but no need to keep track; Use BFS and return the level immediately upon finding a leaf node (i.e. first/shallowest leaf) |
