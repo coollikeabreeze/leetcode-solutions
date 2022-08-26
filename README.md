@@ -2,6 +2,7 @@
 
 | Date             | LeetCode Problem | GitHub Gist | Data Structure / Pattern | Difficulty | Notes
 |------------------|------------------| -------------------------|------------|------------|------|
+|8-26-2022        | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/0549b0177f9eb186bb9632f358cb4616) | Array | Easy | Create a pointer at the first element; loop over the array: if the current element is not 0, replace it with the index value & increment the pointer. After that loop, start from the pointer index, and reassign all values from there and after to 0
 |8-2-2022         | [773. Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/7306f4b6a46134cc32be2c7517961103) | Graph / BFS | Hard | Use a serialize / deserialize function; store the serialize grid + # steps in a hashmap; compare all possible swaps with the current "0" coordinate |
 |8-2-2022         | [127. Word Ladder](https://leetcode.com/problems/word-ladder/) | [GitHub Gist](https://gist.github.com/coollikeabreeze/17c648cc8f536016806689649afd1adb) | Graph / BFS | Hard | REVIEW THIS |
 |7-21-2022         |[542. 01 Matrix](https://leetcode.com/problems/01-matrix/)  | [GitHub Gist](https://gist.github.com/coollikeabreeze/536f672371288c56671ae9a11a49bf35) | Graph / BFS | Medium | Similar to Gates and Walls but requires visited array |
